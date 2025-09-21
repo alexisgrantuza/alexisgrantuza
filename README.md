@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=alexisgrantuza&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const alexis = {
