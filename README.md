@@ -45,40 +45,19 @@ const alexis = {
 
 ## 💻 Tech Stack
 
-###  Frontend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular" />
-  <br>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,framer" />
-</div>
-
-###  Backend Development
-<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,cpp,go" />
-  <br>
   <img src="https://skillicons.dev/icons?i=graphql,postman" />
-</div>
-
-###  Databases & Cloud
-<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
-  <br>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
-</div>
-
-###  Data Science & ML
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,d3" />
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
-</div>
-
-###  Tools & Others
-<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,redux,veutify" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin-left:-30px"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
   
 </div>
 
