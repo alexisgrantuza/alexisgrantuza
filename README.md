@@ -78,7 +78,7 @@ const alexis = {
 ###  Tools & Others
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,redux,veutify" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin-left:-30px"/>
   
 </div>
 
