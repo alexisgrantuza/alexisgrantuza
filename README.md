@@ -1,8 +1,6 @@
 # Hi there, I'm Alexis! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexisgrantuza&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
