@@ -92,7 +92,4 @@ const alexis = {
 <div align="center">
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
-  
-  <img src="https://raw.githubusercontent.com/alexisgrantuza/alexisgrantuza/output/snake.svg" alt="Snake animation" />
-  
 </div>
