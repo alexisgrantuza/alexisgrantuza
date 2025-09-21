@@ -70,7 +70,7 @@ const alexis = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,d3" />
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
 </div>
