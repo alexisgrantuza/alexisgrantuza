@@ -50,7 +50,7 @@ const alexis = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular" />
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,framer" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,cpp,go" />
-  <img src="https://skillicons.dev/icons?i=graphql,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=graphql,postman,vite,gitlab,vercel" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
   <img src="https://skillicons.dev/icons?i=aws,docker,pinia,prisma,sequelize,threejs" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,d3" />
