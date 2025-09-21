@@ -75,10 +75,8 @@ const alexis = {
 
 ## 🎯 Current Goals
 
--  Master advanced React patterns and Next.js optimization
 -  Dive deeper into MLOps and model deployment
 -  Contribute to more open-source projects
--  Build a cross-platform mobile app with React Native
 -  Get AWS Solutions Architect certification
 
 ## Featured Projects
