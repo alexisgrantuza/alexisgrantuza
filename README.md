@@ -26,7 +26,7 @@ const alexis = {
 -  Looking to collaborate on open-source projects and innovative solutions
 -  Fun fact: I love turning coffee into code and ideas into reality!
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.facebook.com/jxisgrantuza" target="_blank">
@@ -80,7 +80,7 @@ const alexis = {
 -  Build a cross-platform mobile app with React Native
 -  Get AWS Solutions Architect certification
 
-## 💡 Featured Projects
+## Featured Projects
 
 *Coming soon! Stay tuned for some amazing projects I'm working on...*
 
