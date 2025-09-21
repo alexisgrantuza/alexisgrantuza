@@ -20,11 +20,11 @@ const alexis = {
 };
 ```
 
-- 🎓 Currently studying and expanding my knowledge in software development
-- 🔭 Working on full-stack web applications with modern frameworks
-- 🌱 Learning advanced machine learning techniques and cloud architectures
-- 👯 Looking to collaborate on open-source projects and innovative solutions
-- ⚡ Fun fact: I love turning coffee into code and ideas into reality!
+-  Currently studying and expanding my knowledge in software development
+-  Working on full-stack web applications with modern frameworks
+-  Learning advanced machine learning techniques and cloud architectures
+-  Looking to collaborate on open-source projects and innovative solutions
+-  Fun fact: I love turning coffee into code and ideas into reality!
 
 ## 🌐 Connect With Me
 
@@ -45,48 +45,46 @@ const alexis = {
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend Development
+###  Frontend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular" />
   <br>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,framer" />
 </div>
 
-### ⚙️ Backend Development
+###  Backend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,cpp,go" />
   <br>
   <img src="https://skillicons.dev/icons?i=graphql,postman" />
 </div>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
   <br>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
 </div>
 
-### 🤖 Data Science & ML
+###  Data Science & ML
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,d3" />
   <br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="20" height="20"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/>
 </div>
 
-### 🛠️ Tools & Others
+###  Tools & Others
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,redux,veutify" />
   <br>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify"/>
 </div>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexisgrantuza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
@@ -103,7 +101,7 @@ const alexis = {
 -  Dive deeper into MLOps and model deployment
 -  Contribute to more open-source projects
 -  Build a cross-platform mobile app with React Native
-- ☁ Get AWS Solutions Architect certification
+-  Get AWS Solutions Architect certification
 
 ## 💡 Featured Projects
 
