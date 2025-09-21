@@ -1,6 +1,9 @@
 # Hi there, I'm Alexis! 👋
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexisgrantuza&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -10,7 +13,7 @@
 
 ```typescript
 const alexis = {
-  pronouns: "she/her",
+  pronouns: "he/him",
   status: "Student & Developer",
   currentFocus: "Building scalable web applications",
   askMeAbout: ["Web Development", "Machine Learning", "UI/UX Design"],
