@@ -97,23 +97,13 @@ const alexis = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisgrantuza&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexisgrantuza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## 📊 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexisgrantuza&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 🎯 Current Goals
 
-- 🚀 Master advanced React patterns and Next.js optimization
-- 🤖 Dive deeper into MLOps and model deployment
-- 🌐 Contribute to more open-source projects
-- 📱 Build a cross-platform mobile app with React Native
-- ☁️ Get AWS Solutions Architect certification
+-  Master advanced React patterns and Next.js optimization
+-  Dive deeper into MLOps and model deployment
+-  Contribute to more open-source projects
+-  Build a cross-platform mobile app with React Native
+- ☁ Get AWS Solutions Architect certification
 
 ## 💡 Featured Projects
 
