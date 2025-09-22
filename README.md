@@ -16,7 +16,7 @@ const alexis = {
   pronouns: "he/him",
   status: "Student & Developer",
   currentFocus: "Building scalable web applications",
-  askMeAbout: ["Web Development", "Machine Learning", "AI"],
+  askMeAbout: ["Web Development", "Machine Learning", "If i'm sigle"],
   funFact: "I debug with console.log and I'm not ashamed! 😅"
 };
 ```
