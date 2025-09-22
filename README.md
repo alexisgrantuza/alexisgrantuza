@@ -25,7 +25,6 @@ const alexis = {
 -  Working on full-stack web applications with modern frameworks
 -  Learning advanced machine learning techniques and cloud architectures
 -  Looking to collaborate on open-source projects and innovative solutions
--  Fun fact: I love turning coffee into code and ideas into reality!
 
 ## Connect With Me
 
