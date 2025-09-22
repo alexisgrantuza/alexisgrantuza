@@ -58,7 +58,6 @@ const alexis = {
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,redux,veutify,supabase,materialui,netlify,npm," />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
   
 </div>
 
