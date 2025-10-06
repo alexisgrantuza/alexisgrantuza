@@ -71,7 +71,7 @@ const alexis = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisgrantuza&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
-## 🎯 Current Goals
+## Current Goals
 
 -  Dive deeper into MLOps and model deployment
 -  Contribute to more open-source projects
