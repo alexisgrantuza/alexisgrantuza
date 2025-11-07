@@ -43,7 +43,7 @@ const alexis = {
   </a>
 </div>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular" />
