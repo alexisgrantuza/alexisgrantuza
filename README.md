@@ -14,7 +14,7 @@
 ```typescript
 const alexis = {
   pronouns: "he/him",
-  status: "Student & Developer",
+  status: "Developer",
   currentFocus: "Building scalable web applications",
   askMeAbout: ["If i'm single", "AI & Machine Learning", "Web Development"],
   funFact: "I debug with console.log and I'm not ashamed! 😅"
